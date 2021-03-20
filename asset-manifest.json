@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smart-face/static/css/main.8e933468.chunk.css",
+    "main.js": "/smart-face/static/js/main.8a0c2f5b.chunk.js",
+    "main.js.map": "/smart-face/static/js/main.8a0c2f5b.chunk.js.map",
+    "runtime-main.js": "/smart-face/static/js/runtime-main.caca744b.js",
+    "runtime-main.js.map": "/smart-face/static/js/runtime-main.caca744b.js.map",
+    "static/js/2.c60f9215.chunk.js": "/smart-face/static/js/2.c60f9215.chunk.js",
+    "static/js/2.c60f9215.chunk.js.map": "/smart-face/static/js/2.c60f9215.chunk.js.map",
+    "index.html": "/smart-face/index.html",
+    "static/css/main.8e933468.chunk.css.map": "/smart-face/static/css/main.8e933468.chunk.css.map",
+    "static/js/2.c60f9215.chunk.js.LICENSE.txt": "/smart-face/static/js/2.c60f9215.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caca744b.js",
+    "static/js/2.c60f9215.chunk.js",
+    "static/css/main.8e933468.chunk.css",
+    "static/js/main.8a0c2f5b.chunk.js"
+  ]
+}
