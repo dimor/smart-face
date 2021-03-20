@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Form from './components/Form/Form';
 import Layout from './container/Layout/Layout';
 import './App.css';
-import { Switch, Route, Redirect } from 'react-router-dom';
+import { Switch, Route, Redirect, BrowserRouter} from 'react-router-dom';
 import Face from './container/Face/Face.js'
 import { useDispatch, useSelector } from 'react-redux';
 import * as actions from './store/actions/index'
@@ -18,9 +18,11 @@ const App = () => {
     <div className="App">
       <Switch>
         <Layout>
+        <BrowserRouter basename={process.env.PUBLIC_URL} >
           <Route exact path="/" component={Form} />
           <Route exact path="/register" component={Form} />
           <PrivateRoute  dispatch={dispatch} path='/face' component={Face} />
+          </BrowserRouter>
         </Layout>
       </Switch>
     </div>
