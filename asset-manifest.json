@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/smart-face/static/css/main.8e933468.chunk.css",
-    "main.js": "/smart-face/static/js/main.8ef938a0.chunk.js",
-    "main.js.map": "/smart-face/static/js/main.8ef938a0.chunk.js.map",
+    "main.js": "/smart-face/static/js/main.aedd95d8.chunk.js",
+    "main.js.map": "/smart-face/static/js/main.aedd95d8.chunk.js.map",
     "runtime-main.js": "/smart-face/static/js/runtime-main.caca744b.js",
     "runtime-main.js.map": "/smart-face/static/js/runtime-main.caca744b.js.map",
-    "static/js/2.c60f9215.chunk.js": "/smart-face/static/js/2.c60f9215.chunk.js",
-    "static/js/2.c60f9215.chunk.js.map": "/smart-face/static/js/2.c60f9215.chunk.js.map",
+    "static/js/2.3747c94f.chunk.js": "/smart-face/static/js/2.3747c94f.chunk.js",
+    "static/js/2.3747c94f.chunk.js.map": "/smart-face/static/js/2.3747c94f.chunk.js.map",
     "index.html": "/smart-face/index.html",
     "static/css/main.8e933468.chunk.css.map": "/smart-face/static/css/main.8e933468.chunk.css.map",
-    "static/js/2.c60f9215.chunk.js.LICENSE.txt": "/smart-face/static/js/2.c60f9215.chunk.js.LICENSE.txt"
+    "static/js/2.3747c94f.chunk.js.LICENSE.txt": "/smart-face/static/js/2.3747c94f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.caca744b.js",
-    "static/js/2.c60f9215.chunk.js",
+    "static/js/2.3747c94f.chunk.js",
     "static/css/main.8e933468.chunk.css",
-    "static/js/main.8ef938a0.chunk.js"
+    "static/js/main.aedd95d8.chunk.js"
   ]
 }
